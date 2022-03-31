@@ -1,0 +1,11 @@
+[package]
+name = "wechat-bot"
+version = "0.1.0"
+authors = ["Zhibin He <hez@vmware.com>"]
+edition = "2018"
+
+[workspace]
+
+[dependencies]
+client = { path = "client" }
+
