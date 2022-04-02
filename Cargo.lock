@@ -84,6 +84,7 @@ dependencies = [
  "lazy_static",
  "log",
  "native-tls",
+ "regex",
  "reqwest",
  "serde",
  "serde_urlencoded",
